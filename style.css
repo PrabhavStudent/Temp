@@ -1,0 +1,13 @@
+.Button1
+{
+    background-color: aqua;
+    border-radius: 25%;
+    
+    border-color: red;
+    border-width: 5px;
+}
+.img1
+{
+    width: 20vw;
+    height: 20vh;
+}
